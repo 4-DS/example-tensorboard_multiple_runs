@@ -8,7 +8,7 @@
     },
     "step_params":
     {
-        "Y": "something_else"
+        "step_name": "tensorboard_example"
     },
     "substeps_params":
     [
